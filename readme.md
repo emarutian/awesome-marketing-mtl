@@ -58,7 +58,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [IBISWorld](https://www.ibisworld.com) - [Review](https://marketingtoolslist.com/ibisworld) - Industry market research reports and data for strategic planning.
   - [Owler](https://www.owler.com) - [Review](https://marketingtoolslist.com/owler) - Business insights platform that provides competitor information and company profiles.
   - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Provides website analytics, traffic insights, and competitive analysis.
-- [Statista](https://www.statista.com) - [Review](https://marketingtoolslist.com/statista) - Online statistics, market research, and business intelligence portal.
+  - [Statista](https://www.statista.com) - [Review](https://marketingtoolslist.com/statista) - Online statistics, market research, and business intelligence portal.
 
 ### Marketing Mix Modeling
 
